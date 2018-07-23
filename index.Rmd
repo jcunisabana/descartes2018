@@ -1,13 +1,20 @@
 ---
 title: "SFM - Descartes"
-subtitle: "La ontología de lo mental cartesiana"
-author: " "
-output: 
+# subtitle: La ontología de lo mental en las Meditaciones
+author: ''
+date: ''
+header-includes:
+  - \usepackage{fontspec}
+  - \setmainfont{Adobe Jenson Pro}  
+output:
   html_document:
-    toc: true
+    theme: yeti
+    toc: yes
     toc_depth: 4
-    toc_float: true
-    theme: cosmo
+    toc_float: yes
+  pdf_document:
+    toc: no
+    latex_engine: xelatex
 ---
 
 
@@ -123,7 +130,7 @@ Se evaluará a los estudiantes por medio de controles de lectura, protocolos, re
 <p style="color:white; background-color:indigo; padding: 5px; ">**Toda** entrega tarde injustificada verá la nota disminuida en 0.5 unidades por cada día tarde. No haber entregado antes de la hora acordada equivale a entregar un día tarde.</p>
 
 | Corte | Actividad | Valor Porcentual |
-| ------------- |-------------| -----|
+| :-------------:|:-------------:|:-----:|
 | 1 | Controles de lectura semanales| 15% |
 | 1 | Comentarios a las relatorías| 15% |
 | 2 | Protocolo    |   15% |
