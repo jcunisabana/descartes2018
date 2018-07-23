@@ -1,6 +1,6 @@
 ---
 title: "SFM - Descartes"
-subtitle: "Las Meditaciones acerca de la Filosofía Primera"
+subtitle: "La ontología de lo mental cartesiana"
 author: " "
 output: 
   html_document:
@@ -44,11 +44,11 @@ http://jcunisabana.github.io/descartes
 
 Cada sesión tendrá una lectura asignada previamente, una persona encargada de hacer una <a href="#Relatoría">relatoría</a> sobre esa lectura y una persona encargada de hacer el <a href="#Protocolo">protocolo</a> de la discusión. El seminario es un espacio para la discusión. ¡Aprovéchenlo!
 
-#### **Antes de la sesión:**
+#### **Antes de la sesión**
 
-Quien está a cargo de la <a href="#Relatoría">relatoría</a> deberá subir su texto a la plataforma al menos **48 horas** antes de la sesión. Los demás estudiantes deberán subir el <a href="#Control de lectura">control de lectura</a> por tarde **75 horas** antes de la sesión para luego leer la relatoría, escribir una <a href="#Comentario a la relatoría">respuesta corta</a> a ella y subir la respuesta a la plataforma al menos **3 horas** antes de la sesión.
+Quien está a cargo de la <a href="#Relatoría">relatoría</a> deberá subir su texto a la plataforma al menos **una semana** antes de la sesión. Los demás estudiantes deberán subir el <a href="#Control de lectura">control de lectura</a> por tarde **75 horas** antes de la sesión para luego leer la relatoría, escribir una <a href="#Comentario a la relatoría">respuesta corta</a> a ella y subir la respuesta a la plataforma al menos **3 horas** antes de la sesión.
 
-#### **Durante la sesión:**
+#### **Durante la sesión**
 
 Se comienza leyendo el protocolo de la sesión anterior, si lo hay. 
 
@@ -61,14 +61,14 @@ Quien está a cargo del <a href="#Protocolo">protocolo</a> debe tomar atenta not
 
 Extensión: entre 1500 y 2500 palabras.
 
-Habrá un relator encargado de presentar el tema de cada sesión. La relatoría debe 1) tener una reseña crítica del texto asignado y 2) ofrecer puntos para la discusión. El texto de la relatoría deberá estar listo ocho días antes de la sesión. Por cada día tarde la nota será disminuida de acuerdo con los siguientes parámetros: un día: -0.5; dos días: -1.0; tres días: -1.5;  cuatro días: -2.0. Es obligación del ponente subir la relatoría a la plataforma virtual y traer copias impresas para todos los integrantes del seminario ocho días antes de la presentación --a menos que se llegue a un acuerdo diferente.
+Habrá un relator encargado de presentar el tema de cada sesión. La relatoría debe 1) tener una reseña crítica del texto asignado y 2) ofrecer puntos para la discusión. El texto de la relatoría deberá estar listo ocho días antes de la sesión. Por cada día tarde la nota será disminuida de acuerdo con los siguientes parámetros: un día: -0.5; dos días: -1.0; tres días: -1.5;  cuatro días: -2.0. Es obligación del ponente subir la relatoría a la plataforma virtual y traer copias impresas para todos los integrantes del seminario **ocho días** antes de la presentación --a menos que se llegue a un acuerdo diferente.
 
 #### **Control de lectura**
 Extensión: entre 400 y 1000 palabras.
 
 Para cada lectura asignada, los estudiantes deben escribir un texto corto con la tesis principal, tres afirmaciones/presuposiciones del texto y tres preguntas/desafíos al texto.
 
-Los controles deberán ser subidos a la plataforma virtual a más tardar 72 horas antes de la sesión. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
+Los controles deberán ser subidos a la plataforma virtual a más tardar **75 horas** antes de la sesión. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
 
 Todos tienen un control de lectura "de gracia". Es decir, pueden dejar de entregar uno sin problema; el primer control de lectura que les falte no cuenta. Por ejemplo, si no entregan el control de lectura de la sesión en la que tienen que presentar la relatoría y entregan todos los demás, su nota igual queda en 5.0.
 
@@ -88,7 +88,7 @@ En cada sesión, habrá un estudiante encargado de recoger la discusión de mane
 Extensión: entre 400 y 500 palabras.
 
 
-Un texto  corto en donde se presente un resumen de la tesis principal y la estrategia argumentativa que emplará para ser entregado el **21 de octubre**.
+Un texto  corto en donde se presente un resumen de la tesis principal y la estrategia argumentativa que empleará para ser entregado el **21 de octubre**.
 
 #### **Ensayo argumentativo**
 Extensión: entre 2000 y 3500 palabras.
