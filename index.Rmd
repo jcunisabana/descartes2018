@@ -47,7 +47,7 @@ Horario y salón:
 Jueves 2:00pm - 5:00pm. Atelier 105
 
 Página web del curso:
-http://jcunisabana.github.io/descartes
+http://jcunisabana.github.io/descartes2018
 
 
 ## Objetivos
