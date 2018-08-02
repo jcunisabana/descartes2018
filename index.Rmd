@@ -64,7 +64,7 @@ Cada sesión tendrá una lectura asignada previamente, una persona encargada de 
 
 #### **Antes de la sesión**
 
-Quien está a cargo de la <a href="#Relatoría">relatoría</a> deberá subir su texto a la plataforma al menos **una semana** antes de la sesión. Los demás estudiantes deberán subir el <a href="#Control de lectura">control de lectura</a> por tarde **75 horas** antes de la sesión para luego leer la relatoría, escribir una <a href="#Comentario a la relatoría">respuesta corta</a> a ella y subir la respuesta a la plataforma al menos **3 horas** antes de la sesión.
+Quien está a cargo de la <a href="#Relatoría">relatoría</a> deberá subir su texto a la plataforma al menos **una semana** antes de la sesión. Los demás estudiantes deberán subir el <a href="#Control de lectura">control de lectura</a> por tarde **75 horas** antes de la sesión para luego leer la relatoría, escribir una <a href="#Comentario a la relatoría">respuesta corta</a> a ella y subir la respuesta a la plataforma al menos **5 horas** antes de la sesión.
 
 #### **Durante la sesión**
 
@@ -95,7 +95,7 @@ Extensión: entre 400 y 500 palabras.
 
 Para cada relatoría, todos los estudiantes (salvo quien está a cargo de la relatoría) deberán escribir un texto corto en respuesta. La respuesta puede tomar diferentes formas pero esencialmente debe ser o bien *la respuesta* a una pregunta, explícita o implícita, en la relatoría o acerca de ella o bien el planteameanto detallado de un desafío o pregunta a la relatoría.
 
-Los comentarios deberán ser subidos a la plataforma virtual a más tardar 3 horas antes de la sesión. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
+Los comentarios deberán ser subidos a la plataforma virtual a más tardar 5 horas antes de la sesión. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
 
 #### **Protocolo**
 Extensión: Entre 700 y 1000 palabras
