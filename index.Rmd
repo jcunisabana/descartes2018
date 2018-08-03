@@ -64,7 +64,7 @@ Cada sesión tendrá una lectura asignada previamente, una persona encargada de 
 
 #### **Antes de la sesión**
 
-Quien está a cargo de la <a href="#Relatoría">relatoría</a> deberá subir su texto a la plataforma al menos **una semana** antes de la sesión. Los demás estudiantes deberán subir el <a href="#Control de lectura">control de lectura</a> por tarde **75 horas** antes de la sesión para luego leer la relatoría, escribir una <a href="#Comentario a la relatoría">respuesta corta</a> a ella y subir la respuesta a la plataforma al menos **5 horas** antes de la sesión.
+Quien está a cargo de la <a href="#Relatoría">relatoría</a> deberá subir su texto a la plataforma al menos **siete días** antes de la sesión. Los demás estudiantes deberán subir el <a href="#Control de lectura">control de lectura</a> por tarde **75 horas** antes de la sesión para luego leer la relatoría, escribir una <a href="#Comentario a la relatoría">respuesta corta</a> a ella y subir la respuesta a la plataforma al menos **5 horas** antes de la sesión.
 
 #### **Durante la sesión**
 
@@ -79,7 +79,7 @@ Quien está a cargo del <a href="#Protocolo">protocolo</a> debe tomar atenta not
 
 Extensión: entre 1500 y 2500 palabras.
 
-Habrá un relator encargado de presentar el tema de cada sesión. La relatoría debe 1) tener una reseña crítica del texto asignado y 2) ofrecer puntos para la discusión. El texto de la relatoría deberá estar listo ocho días antes de la sesión. Por cada día tarde la nota será disminuida de acuerdo con los siguientes parámetros: un día: -0.5; dos días: -1.0; tres días: -1.5;  cuatro días: -2.0. Es obligación del ponente subir la relatoría a la plataforma virtual y traer copias impresas para todos los integrantes del seminario **ocho días** antes de la presentación --a menos que se llegue a un acuerdo diferente.
+Habrá un relator encargado de presentar el tema de cada sesión. La relatoría debe 1) tener una reseña crítica del texto asignado y 2) ofrecer puntos para la discusión. El texto de la relatoría deberá estar listo ocho días antes de la sesión. Por cada día tarde la nota será disminuida de acuerdo con los siguientes parámetros: un día: -0.5; dos días: -1.0; tres días: -1.5;  cuatro días: -2.0. Es obligación del ponente subir la relatoría a la plataforma virtual y traer copias impresas para todos los integrantes del seminario **siete días** antes de la presentación --a menos que se llegue a un acuerdo diferente.
 
 #### **Control de lectura**
 Extensión: entre 400 y 1000 palabras.
